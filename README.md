@@ -10,6 +10,7 @@ A Salary prediction application built with python and scikit learn library with 
 
 ## Folders/Directories
 1. Notebooks consists of Jupyter notebooks on which the development codes were written.
+
   -Model Development(salary-model): These codes include exploratory analyses and predictive modeling.
   -API Development(salary-model-api): This refer to the codes that were used to write the API for the Machine Learning model (fastapi)
   
